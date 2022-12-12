@@ -1,0 +1,23 @@
+@import url("https://fonts.cdnfonts.com/css/itc-avant-garde-gothic-std-book");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "ITC Avant Garde Gothic Std Book", sans-serif;
+}
+
+.top-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #222;
+  font-weight: 500;
+  font-size: 18px;
+}
